@@ -12,7 +12,7 @@ header {
       rgba(48, 48, 50, 0.624),
       rgba(0, 0, 0, 0.689)
     ),
-    url(/img/bg.jpg);
+    url(../img/bg.jpg);
   background-position: center;
   background-size: cover;
   position: relative;
